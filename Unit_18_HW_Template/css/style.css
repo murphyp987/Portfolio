@@ -88,7 +88,9 @@ footer li {
   grid-area: img1;
 }
 .img2 {
-  grid-area: img2;
+  grid-area: img2; 
+  width: 100px; 
+  height: auto;
 }
 .img3 {
   grid-area: img3;

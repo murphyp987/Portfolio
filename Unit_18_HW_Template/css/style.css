@@ -15,8 +15,6 @@ header li {
 }
 header p {
   display: inline-block;
-  width: 50%;
-  padding:
 }
 .heroImg {
   background-color: #EBEBEB;
@@ -88,6 +86,7 @@ footer li {
 }
 .img1 {
   grid-area: img1;
+  width: 300px;
 }
 .img2 {
   grid-area: img2; 
@@ -96,6 +95,7 @@ footer li {
 }
 .img3 {
   grid-area: img3;
+  width: 100px;
 }
 .img1, .img2, .img3, .content1, .content2, .content3 {
   padding: 7px;

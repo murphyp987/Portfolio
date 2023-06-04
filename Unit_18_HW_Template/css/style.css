@@ -18,8 +18,7 @@ header p {
 }
 .heroImg {
   background-color: #EBEBEB;
-  padding: 10px;
-width: 10%;
+  padding: 100px 15px;
 }
 .content {
   max-width: 300px;
@@ -97,7 +96,7 @@ footer li {
   grid-area: img3;
 }
 .img1, .img2, .img3, .content1, .content2, .content3 {
-  padding: 65px;
+  padding: 75px;
 }
 .content1 {
   grid-area: content1;
